@@ -1,0 +1,36 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background: #E7E4E4;
+}
+
+.container{
+    width: 550px;
+    background: white;
+}
+
+.nav{
+    width: 550px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    margin-top: 0px;
+    color: white;
+    background: #F55A5A;
+}
+
+.nav h1{
+    margin: 0px;
+    font-size: 14.46px;
+    font-weight: 500;
+}
+
+.nav img{
+    width: 24px;
+    height: 24px;
+}
